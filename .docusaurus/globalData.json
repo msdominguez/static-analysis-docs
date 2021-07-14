@@ -1,0 +1,58 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "commands/custom-lint-rule",
+              "path": "/docs/commands/custom-lint-rule",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "commands/parsing-a-file",
+              "path": "/docs/commands/parsing-a-file",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "commands/running-the-linter",
+              "path": "/docs/commands/running-the-linter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "commands/testing",
+              "path": "/docs/commands/testing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "docusaurus-markdown-features",
+              "path": "/docs/docusaurus-markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "helpful-links",
+              "path": "/docs/helpful-links",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "writing-a-custom-lint-rule",
+              "path": "/docs/writing-a-custom-lint-rule",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

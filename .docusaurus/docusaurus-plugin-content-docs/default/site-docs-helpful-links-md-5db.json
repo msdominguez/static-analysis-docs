@@ -1,0 +1,26 @@
+{
+  "unversionedId": "helpful-links",
+  "id": "helpful-links",
+  "isDocsHomePage": false,
+  "title": "Helpful Links",
+  "description": "* Rome CONTRIBUTING.md",
+  "source": "@site/docs/helpful-links.md",
+  "sourceDirName": ".",
+  "slug": "/helpful-links",
+  "permalink": "/docs/helpful-links",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/helpful-links.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Testing",
+    "permalink": "/docs/commands/testing"
+  },
+  "next": {
+    "title": "Writing a custom lint rule",
+    "permalink": "/docs/writing-a-custom-lint-rule"
+  }
+}

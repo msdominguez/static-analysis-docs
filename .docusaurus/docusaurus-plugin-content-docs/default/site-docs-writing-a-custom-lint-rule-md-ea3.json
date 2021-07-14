@@ -1,0 +1,26 @@
+{
+  "unversionedId": "writing-a-custom-lint-rule",
+  "id": "writing-a-custom-lint-rule",
+  "isDocsHomePage": false,
+  "title": "Writing a custom lint rule",
+  "description": "1. Parse a file, so you can see how node types are identified (see Parsing a file)",
+  "source": "@site/docs/writing-a-custom-lint-rule.md",
+  "sourceDirName": ".",
+  "slug": "/writing-a-custom-lint-rule",
+  "permalink": "/docs/writing-a-custom-lint-rule",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/writing-a-custom-lint-rule.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Helpful Links",
+    "permalink": "/docs/helpful-links"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/docs/docusaurus-markdown-features"
+  }
+}

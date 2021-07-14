@@ -1,0 +1,68 @@
+{
+  "/-deb": {
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---5-e-9-4f3"
+  },
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/markdown-page-be1": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-8a5": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/commands/custom-lint-rule-99c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-commands-custom-lint-rule-691-092"
+  },
+  "/docs/commands/parsing-a-file-c1c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-commands-parsing-a-file-3-b-3-493"
+  },
+  "/docs/commands/running-the-linter-b19": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-commands-running-the-linter-5-fe-9a0"
+  },
+  "/docs/commands/testing-2a0": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-commands-testing-3-b-2-a7b"
+  },
+  "/docs/docusaurus-markdown-features-41e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-docusaurus-markdown-features-422-ad8"
+  },
+  "/docs/helpful-links-387": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-helpful-links-5-db-70e"
+  },
+  "/docs/intro-e84": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/writing-a-custom-lint-rule-d05": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-writing-a-custom-lint-ruleea-3-92e"
+  }
+}

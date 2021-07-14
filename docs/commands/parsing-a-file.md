@@ -95,3 +95,5 @@ JSRoot {
   path: UIDPath<project-rome/scratch.ts>
 }
 ```
+
+This output helps you write your custom lint rule.

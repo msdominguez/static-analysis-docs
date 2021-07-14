@@ -1,0 +1,26 @@
+{
+  "unversionedId": "commands/testing",
+  "id": "commands/testing",
+  "isDocsHomePage": false,
+  "title": "Testing",
+  "description": "Running the test runner:",
+  "source": "@site/docs/commands/testing.md",
+  "sourceDirName": "commands",
+  "slug": "/commands/testing",
+  "permalink": "/docs/commands/testing",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/commands/testing.md",
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Running the linter",
+    "permalink": "/docs/commands/running-the-linter"
+  },
+  "next": {
+    "title": "Helpful Links",
+    "permalink": "/docs/helpful-links"
+  }
+}

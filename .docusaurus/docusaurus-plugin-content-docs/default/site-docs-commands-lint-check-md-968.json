@@ -1,0 +1,26 @@
+{
+  "unversionedId": "commands/lint-check",
+  "id": "commands/lint-check",
+  "isDocsHomePage": false,
+  "title": "Running the linter",
+  "description": "./rome check",
+  "source": "@site/docs/commands/lint-check.md",
+  "sourceDirName": "commands",
+  "slug": "/commands/lint-check",
+  "permalink": "/docs/commands/lint-check",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/commands/lint-check.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Parsing a file",
+    "permalink": "/docs/commands/parsing-a-file"
+  },
+  "next": {
+    "title": "Helpful Links",
+    "permalink": "/docs/helpful-links"
+  }
+}

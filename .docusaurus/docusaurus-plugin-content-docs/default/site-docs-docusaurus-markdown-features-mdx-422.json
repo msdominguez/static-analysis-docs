@@ -1,0 +1,22 @@
+{
+  "unversionedId": "docusaurus-markdown-features",
+  "id": "docusaurus-markdown-features",
+  "isDocsHomePage": false,
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/docs/docusaurus-markdown-features.mdx",
+  "sourceDirName": ".",
+  "slug": "/docusaurus-markdown-features",
+  "permalink": "/docs/docusaurus-markdown-features",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/docusaurus-markdown-features.mdx",
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Writing a custom lint rule",
+    "permalink": "/docs/writing-a-custom-lint-rule"
+  }
+}
