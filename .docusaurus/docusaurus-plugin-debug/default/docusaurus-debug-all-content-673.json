@@ -248,7 +248,7 @@
               "id": "writing-a-custom-lint-rule",
               "isDocsHomePage": false,
               "title": "Writing a custom lint rule",
-              "description": "1. Parse a file, so you can see how node types are identified (see Parsing a file)",
+              "description": "1. Parse a file, so you can see how node types are identified (see Parsing a file). Also look at the file internal/ast/index.ts (AnyNode) to see a list of node types.",
               "source": "@site/docs/writing-a-custom-lint-rule.md",
               "sourceDirName": ".",
               "slug": "/writing-a-custom-lint-rule",
