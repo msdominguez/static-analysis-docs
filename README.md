@@ -1,4 +1,9 @@
-# Website
+# React Static Analysis Working Group Documentation
+
+## How to run
+1. Clone the repo
+2. Run `npm run start`
+3. Navigate to `http://localhost:3000/docs/intro`
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
