@@ -7,7 +7,7 @@ sidebar_position: 1
 `./script lint-create-rule [category]/[ruleName]`
 
 * ruleName starts with 'use' to mandate or  'no'  to forbid
-* category = ts, js, jsx, css, html, react, regex, or a11y (lint category folders in internal/compiler/lint/rules)
+* category = ts, js, jsx, css, html, react, regex, or a11y (lint category folders in [internal/compiler/lint/rules](https://github.com/rome/tools/tree/main/internal/compiler/lint/rules))
 
 example:
 

@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Writing a custom lint rule
 
-1. Parse a file, so you can see how node types are identified (see [Parsing a file](/docs/commands/parsing-a-file)). Also look at the file `internal/ast/index.ts` (`AnyNode`) to see a list of node types.
+1. Parse a file, so you can see how node types are identified (see [Parsing a file](/docs/commands/parsing-a-file)). Also look at the file [internal/ast/index.ts](https://github.com/rome/tools/blob/main/internal/ast/index.ts) (`AnyNode`) to see a list of node types.
 2. [Create a custom lint rule](/docs/commands/custom-lint-rule)
 3. In your [no/use][concept].[category] file (ex. noHaha.ts), write your lint rule
 
