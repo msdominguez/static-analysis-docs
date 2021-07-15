@@ -9,7 +9,7 @@
       {
         "type": "link",
         "label": "React Static Analysis Working Group",
-        "href": "/docs/intro"
+        "href": "/static-analysis-docs/docs/intro"
       },
       {
         "type": "category",
@@ -18,22 +18,22 @@
           {
             "type": "link",
             "label": "Creating a custom lint rule",
-            "href": "/docs/commands/custom-lint-rule"
+            "href": "/static-analysis-docs/docs/commands/custom-lint-rule"
           },
           {
             "type": "link",
             "label": "Parsing a file",
-            "href": "/docs/commands/parsing-a-file"
+            "href": "/static-analysis-docs/docs/commands/parsing-a-file"
           },
           {
             "type": "link",
             "label": "Running the linter",
-            "href": "/docs/commands/running-the-linter"
+            "href": "/static-analysis-docs/docs/commands/running-the-linter"
           },
           {
             "type": "link",
             "label": "Testing",
-            "href": "/docs/commands/testing"
+            "href": "/static-analysis-docs/docs/commands/testing"
           }
         ],
         "collapsed": true
@@ -41,28 +41,22 @@
       {
         "type": "link",
         "label": "Helpful Links",
-        "href": "/docs/helpful-links"
+        "href": "/static-analysis-docs/docs/helpful-links"
       },
       {
         "type": "link",
         "label": "Writing a custom lint rule",
-        "href": "/docs/writing-a-custom-lint-rule"
-      },
-      {
-        "type": "link",
-        "label": "Markdown Features",
-        "href": "/docs/docusaurus-markdown-features"
+        "href": "/static-analysis-docs/docs/writing-a-custom-lint-rule"
       }
     ]
   },
   "permalinkToSidebar": {
-    "/docs/commands/custom-lint-rule": "tutorialSidebar",
-    "/docs/commands/parsing-a-file": "tutorialSidebar",
-    "/docs/commands/running-the-linter": "tutorialSidebar",
-    "/docs/commands/testing": "tutorialSidebar",
-    "/docs/docusaurus-markdown-features": "tutorialSidebar",
-    "/docs/helpful-links": "tutorialSidebar",
-    "/docs/intro": "tutorialSidebar",
-    "/docs/writing-a-custom-lint-rule": "tutorialSidebar"
+    "/static-analysis-docs/docs/commands/custom-lint-rule": "tutorialSidebar",
+    "/static-analysis-docs/docs/commands/parsing-a-file": "tutorialSidebar",
+    "/static-analysis-docs/docs/commands/running-the-linter": "tutorialSidebar",
+    "/static-analysis-docs/docs/commands/testing": "tutorialSidebar",
+    "/static-analysis-docs/docs/helpful-links": "tutorialSidebar",
+    "/static-analysis-docs/docs/intro": "tutorialSidebar",
+    "/static-analysis-docs/docs/writing-a-custom-lint-rule": "tutorialSidebar"
   }
 }

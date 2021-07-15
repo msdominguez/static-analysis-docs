@@ -7,7 +7,7 @@
   "source": "@site/docs/writing-a-custom-lint-rule.md",
   "sourceDirName": ".",
   "slug": "/writing-a-custom-lint-rule",
-  "permalink": "/docs/writing-a-custom-lint-rule",
+  "permalink": "/static-analysis-docs/docs/writing-a-custom-lint-rule",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/writing-a-custom-lint-rule.md",
   "version": "current",
   "sidebarPosition": 3,
@@ -17,10 +17,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Helpful Links",
-    "permalink": "/docs/helpful-links"
-  },
-  "next": {
-    "title": "Markdown Features",
-    "permalink": "/docs/docusaurus-markdown-features"
+    "permalink": "/static-analysis-docs/docs/helpful-links"
   }
 }

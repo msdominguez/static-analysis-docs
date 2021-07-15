@@ -7,7 +7,7 @@
   "source": "@site/docs/commands/custom-lint-rule.md",
   "sourceDirName": "commands",
   "slug": "/commands/custom-lint-rule",
-  "permalink": "/docs/commands/custom-lint-rule",
+  "permalink": "/static-analysis-docs/docs/commands/custom-lint-rule",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/commands/custom-lint-rule.md",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "React Static Analysis Working Group",
-    "permalink": "/docs/intro"
+    "permalink": "/static-analysis-docs/docs/intro"
   },
   "next": {
     "title": "Parsing a file",
-    "permalink": "/docs/commands/parsing-a-file"
+    "permalink": "/static-analysis-docs/docs/commands/parsing-a-file"
   }
 }

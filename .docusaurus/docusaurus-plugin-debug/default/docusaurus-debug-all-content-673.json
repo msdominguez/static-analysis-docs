@@ -5,7 +5,7 @@
         {
           "versionName": "current",
           "versionLabel": "Next",
-          "versionPath": "/docs",
+          "versionPath": "/static-analysis-docs/docs",
           "versionEditUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs",
           "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/edit/master/website/i18n/en/docusaurus-plugin-content-docs/current",
           "versionBanner": "none",
@@ -51,22 +51,17 @@
               {
                 "type": "doc",
                 "id": "writing-a-custom-lint-rule"
-              },
-              {
-                "type": "doc",
-                "id": "docusaurus-markdown-features"
               }
             ]
           },
           "permalinkToSidebar": {
-            "/docs/commands/custom-lint-rule": "tutorialSidebar",
-            "/docs/commands/parsing-a-file": "tutorialSidebar",
-            "/docs/commands/running-the-linter": "tutorialSidebar",
-            "/docs/commands/testing": "tutorialSidebar",
-            "/docs/docusaurus-markdown-features": "tutorialSidebar",
-            "/docs/helpful-links": "tutorialSidebar",
-            "/docs/intro": "tutorialSidebar",
-            "/docs/writing-a-custom-lint-rule": "tutorialSidebar"
+            "/static-analysis-docs/docs/commands/custom-lint-rule": "tutorialSidebar",
+            "/static-analysis-docs/docs/commands/parsing-a-file": "tutorialSidebar",
+            "/static-analysis-docs/docs/commands/running-the-linter": "tutorialSidebar",
+            "/static-analysis-docs/docs/commands/testing": "tutorialSidebar",
+            "/static-analysis-docs/docs/helpful-links": "tutorialSidebar",
+            "/static-analysis-docs/docs/intro": "tutorialSidebar",
+            "/static-analysis-docs/docs/writing-a-custom-lint-rule": "tutorialSidebar"
           },
           "docs": [
             {
@@ -78,7 +73,7 @@
               "source": "@site/docs/commands/custom-lint-rule.md",
               "sourceDirName": "commands",
               "slug": "/commands/custom-lint-rule",
-              "permalink": "/docs/commands/custom-lint-rule",
+              "permalink": "/static-analysis-docs/docs/commands/custom-lint-rule",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/commands/custom-lint-rule.md",
               "version": "current",
               "sidebarPosition": 1,
@@ -88,11 +83,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "React Static Analysis Working Group",
-                "permalink": "/docs/intro"
+                "permalink": "/static-analysis-docs/docs/intro"
               },
               "next": {
                 "title": "Parsing a file",
-                "permalink": "/docs/commands/parsing-a-file"
+                "permalink": "/static-analysis-docs/docs/commands/parsing-a-file"
               }
             },
             {
@@ -104,7 +99,7 @@
               "source": "@site/docs/commands/parsing-a-file.md",
               "sourceDirName": "commands",
               "slug": "/commands/parsing-a-file",
-              "permalink": "/docs/commands/parsing-a-file",
+              "permalink": "/static-analysis-docs/docs/commands/parsing-a-file",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/commands/parsing-a-file.md",
               "version": "current",
               "sidebarPosition": 2,
@@ -114,11 +109,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Creating a custom lint rule",
-                "permalink": "/docs/commands/custom-lint-rule"
+                "permalink": "/static-analysis-docs/docs/commands/custom-lint-rule"
               },
               "next": {
                 "title": "Running the linter",
-                "permalink": "/docs/commands/running-the-linter"
+                "permalink": "/static-analysis-docs/docs/commands/running-the-linter"
               }
             },
             {
@@ -130,7 +125,7 @@
               "source": "@site/docs/commands/running-the-linter.md",
               "sourceDirName": "commands",
               "slug": "/commands/running-the-linter",
-              "permalink": "/docs/commands/running-the-linter",
+              "permalink": "/static-analysis-docs/docs/commands/running-the-linter",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/commands/running-the-linter.md",
               "version": "current",
               "sidebarPosition": 3,
@@ -140,11 +135,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Parsing a file",
-                "permalink": "/docs/commands/parsing-a-file"
+                "permalink": "/static-analysis-docs/docs/commands/parsing-a-file"
               },
               "next": {
                 "title": "Testing",
-                "permalink": "/docs/commands/testing"
+                "permalink": "/static-analysis-docs/docs/commands/testing"
               }
             },
             {
@@ -156,7 +151,7 @@
               "source": "@site/docs/commands/testing.md",
               "sourceDirName": "commands",
               "slug": "/commands/testing",
-              "permalink": "/docs/commands/testing",
+              "permalink": "/static-analysis-docs/docs/commands/testing",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/commands/testing.md",
               "version": "current",
               "sidebarPosition": 4,
@@ -166,33 +161,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Running the linter",
-                "permalink": "/docs/commands/running-the-linter"
+                "permalink": "/static-analysis-docs/docs/commands/running-the-linter"
               },
               "next": {
                 "title": "Helpful Links",
-                "permalink": "/docs/helpful-links"
-              }
-            },
-            {
-              "unversionedId": "docusaurus-markdown-features",
-              "id": "docusaurus-markdown-features",
-              "isDocsHomePage": false,
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/docusaurus-markdown-features.mdx",
-              "sourceDirName": ".",
-              "slug": "/docusaurus-markdown-features",
-              "permalink": "/docs/docusaurus-markdown-features",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/docusaurus-markdown-features.mdx",
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Writing a custom lint rule",
-                "permalink": "/docs/writing-a-custom-lint-rule"
+                "permalink": "/static-analysis-docs/docs/helpful-links"
               }
             },
             {
@@ -204,7 +177,7 @@
               "source": "@site/docs/helpful-links.md",
               "sourceDirName": ".",
               "slug": "/helpful-links",
-              "permalink": "/docs/helpful-links",
+              "permalink": "/static-analysis-docs/docs/helpful-links",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/helpful-links.md",
               "version": "current",
               "sidebarPosition": 2,
@@ -214,11 +187,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Testing",
-                "permalink": "/docs/commands/testing"
+                "permalink": "/static-analysis-docs/docs/commands/testing"
               },
               "next": {
                 "title": "Writing a custom lint rule",
-                "permalink": "/docs/writing-a-custom-lint-rule"
+                "permalink": "/static-analysis-docs/docs/writing-a-custom-lint-rule"
               }
             },
             {
@@ -230,7 +203,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/docs/intro",
+              "permalink": "/static-analysis-docs/docs/intro",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/intro.md",
               "version": "current",
               "sidebarPosition": 1,
@@ -240,7 +213,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Creating a custom lint rule",
-                "permalink": "/docs/commands/custom-lint-rule"
+                "permalink": "/static-analysis-docs/docs/commands/custom-lint-rule"
               }
             },
             {
@@ -252,7 +225,7 @@
               "source": "@site/docs/writing-a-custom-lint-rule.md",
               "sourceDirName": ".",
               "slug": "/writing-a-custom-lint-rule",
-              "permalink": "/docs/writing-a-custom-lint-rule",
+              "permalink": "/static-analysis-docs/docs/writing-a-custom-lint-rule",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/writing-a-custom-lint-rule.md",
               "version": "current",
               "sidebarPosition": 3,
@@ -262,11 +235,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Helpful Links",
-                "permalink": "/docs/helpful-links"
-              },
-              "next": {
-                "title": "Markdown Features",
-                "permalink": "/docs/docusaurus-markdown-features"
+                "permalink": "/static-analysis-docs/docs/helpful-links"
               }
             }
           ]
@@ -286,12 +255,12 @@
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
+        "permalink": "/static-analysis-docs/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/markdown-page",
+        "permalink": "/static-analysis-docs/markdown-page",
         "source": "@site/src/pages/markdown-page.md"
       }
     ]

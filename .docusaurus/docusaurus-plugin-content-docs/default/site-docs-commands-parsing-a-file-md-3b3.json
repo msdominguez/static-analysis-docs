@@ -7,7 +7,7 @@
   "source": "@site/docs/commands/parsing-a-file.md",
   "sourceDirName": "commands",
   "slug": "/commands/parsing-a-file",
-  "permalink": "/docs/commands/parsing-a-file",
+  "permalink": "/static-analysis-docs/docs/commands/parsing-a-file",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/commands/parsing-a-file.md",
   "version": "current",
   "sidebarPosition": 2,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Creating a custom lint rule",
-    "permalink": "/docs/commands/custom-lint-rule"
+    "permalink": "/static-analysis-docs/docs/commands/custom-lint-rule"
   },
   "next": {
     "title": "Running the linter",
-    "permalink": "/docs/commands/running-the-linter"
+    "permalink": "/static-analysis-docs/docs/commands/running-the-linter"
   }
 }

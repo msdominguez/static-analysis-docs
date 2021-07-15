@@ -7,7 +7,7 @@
   "source": "@site/docs/commands/testing.md",
   "sourceDirName": "commands",
   "slug": "/commands/testing",
-  "permalink": "/docs/commands/testing",
+  "permalink": "/static-analysis-docs/docs/commands/testing",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/commands/testing.md",
   "version": "current",
   "sidebarPosition": 4,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Running the linter",
-    "permalink": "/docs/commands/running-the-linter"
+    "permalink": "/static-analysis-docs/docs/commands/running-the-linter"
   },
   "next": {
     "title": "Helpful Links",
-    "permalink": "/docs/helpful-links"
+    "permalink": "/static-analysis-docs/docs/helpful-links"
   }
 }

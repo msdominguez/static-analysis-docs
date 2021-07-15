@@ -7,7 +7,7 @@
   "source": "@site/docs/commands/running-the-linter.md",
   "sourceDirName": "commands",
   "slug": "/commands/running-the-linter",
-  "permalink": "/docs/commands/running-the-linter",
+  "permalink": "/static-analysis-docs/docs/commands/running-the-linter",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/commands/running-the-linter.md",
   "version": "current",
   "sidebarPosition": 3,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Parsing a file",
-    "permalink": "/docs/commands/parsing-a-file"
+    "permalink": "/static-analysis-docs/docs/commands/parsing-a-file"
   },
   "next": {
     "title": "Testing",
-    "permalink": "/docs/commands/testing"
+    "permalink": "/static-analysis-docs/docs/commands/testing"
   }
 }

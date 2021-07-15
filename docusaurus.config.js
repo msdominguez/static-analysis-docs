@@ -5,13 +5,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Static Analysis',
   tagline: 'React Static Analysis Working Group',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://github.com/msdominguez/static-analysis-docs',
+  baseUrl: '/static-analysis-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'msdominguez',
+  projectName: 'static-analysis-docs',
+  trailingSlash: false,
   themeConfig: {
     navbar: {
       title: 'Static Analysis',
