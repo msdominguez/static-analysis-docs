@@ -5,6 +5,8 @@
 2. Run `npm run start`
 3. Navigate to `http://localhost:3000/docs/intro`
 
+OR view at https://msdominguez.github.io/static-analysis-docs/docs/intro
+
 ## Docusaurus
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
