@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "commands/generate-all-files",
+              "path": "/static-analysis-docs/docs/commands/generate-all-files",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "commands/parsing-a-file",
               "path": "/static-analysis-docs/docs/commands/parsing-a-file",
               "sidebar": "tutorialSidebar"

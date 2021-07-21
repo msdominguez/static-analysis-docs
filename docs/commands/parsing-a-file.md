@@ -16,7 +16,7 @@ let c = 12;
 const { abc } = { abc: 321 };
 ```
 
-the output given this file is:
+the output given this file shows the AST representation of the syntax:
 
 ```
 JSRoot {
@@ -37,7 +37,7 @@ JSRoot {
         kind: "const"
         declarations: [
           JSVariableDeclarator {
-            id: JSBindingIdentifier {name: "lolz"}
+            id: JSBindingIdentifier {name: "b"}
             init: JSNumericLiteral {value: 2}
           }
         ]
@@ -91,7 +91,7 @@ JSRoot {
   hasHoistedVars: false
   sourceType: "module"
   syntax: ["ts"]
-  integrity: {hash: "0828f82046d593b48a1b2e11e7e35da05c0ddccdc458faa1fdf59b59aa0b2b06"}
+  integrity: {hash: "977f48597780fc99f16a32084caf5a3dabbd382ab9674d8f218cfdca39ca560c"}
   path: UIDPath<project-rome/scratch.ts>
 }
 ```

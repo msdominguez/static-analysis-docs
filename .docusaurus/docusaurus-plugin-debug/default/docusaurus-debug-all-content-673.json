@@ -39,6 +39,10 @@
                   },
                   {
                     "type": "doc",
+                    "id": "commands/generate-all-files"
+                  },
+                  {
+                    "type": "doc",
                     "id": "commands/testing"
                   }
                 ],
@@ -56,6 +60,7 @@
           },
           "permalinkToSidebar": {
             "/static-analysis-docs/docs/commands/custom-lint-rule": "tutorialSidebar",
+            "/static-analysis-docs/docs/commands/generate-all-files": "tutorialSidebar",
             "/static-analysis-docs/docs/commands/parsing-a-file": "tutorialSidebar",
             "/static-analysis-docs/docs/commands/running-the-linter": "tutorialSidebar",
             "/static-analysis-docs/docs/commands/testing": "tutorialSidebar",
@@ -88,6 +93,32 @@
               "next": {
                 "title": "Parsing a file",
                 "permalink": "/static-analysis-docs/docs/commands/parsing-a-file"
+              }
+            },
+            {
+              "unversionedId": "commands/generate-all-files",
+              "id": "commands/generate-all-files",
+              "isDocsHomePage": false,
+              "title": "Generating all files",
+              "description": "./script generate-all-files",
+              "source": "@site/docs/commands/generate-all-files.md",
+              "sourceDirName": "commands",
+              "slug": "/commands/generate-all-files",
+              "permalink": "/static-analysis-docs/docs/commands/generate-all-files",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/commands/generate-all-files.md",
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Running the linter",
+                "permalink": "/static-analysis-docs/docs/commands/running-the-linter"
+              },
+              "next": {
+                "title": "Testing",
+                "permalink": "/static-analysis-docs/docs/commands/testing"
               }
             },
             {
@@ -138,8 +169,8 @@
                 "permalink": "/static-analysis-docs/docs/commands/parsing-a-file"
               },
               "next": {
-                "title": "Testing",
-                "permalink": "/static-analysis-docs/docs/commands/testing"
+                "title": "Generating all files",
+                "permalink": "/static-analysis-docs/docs/commands/generate-all-files"
               }
             },
             {
@@ -147,21 +178,21 @@
               "id": "commands/testing",
               "isDocsHomePage": false,
               "title": "Testing",
-              "description": "Running the test runner:",
+              "description": "rome test internal/compiler/lint/rules/harness.test.ts --update-snapshots",
               "source": "@site/docs/commands/testing.md",
               "sourceDirName": "commands",
               "slug": "/commands/testing",
               "permalink": "/static-analysis-docs/docs/commands/testing",
               "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/commands/testing.md",
               "version": "current",
-              "sidebarPosition": 4,
+              "sidebarPosition": 5,
               "frontMatter": {
-                "sidebar_position": 4
+                "sidebar_position": 5
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Running the linter",
-                "permalink": "/static-analysis-docs/docs/commands/running-the-linter"
+                "title": "Generating all files",
+                "permalink": "/static-analysis-docs/docs/commands/generate-all-files"
               },
               "next": {
                 "title": "Helpful Links",

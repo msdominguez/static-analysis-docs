@@ -1,0 +1,26 @@
+{
+  "unversionedId": "commands/generate-all-files",
+  "id": "commands/generate-all-files",
+  "isDocsHomePage": false,
+  "title": "Generating all files",
+  "description": "./script generate-all-files",
+  "source": "@site/docs/commands/generate-all-files.md",
+  "sourceDirName": "commands",
+  "slug": "/commands/generate-all-files",
+  "permalink": "/static-analysis-docs/docs/commands/generate-all-files",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/commands/generate-all-files.md",
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Running the linter",
+    "permalink": "/static-analysis-docs/docs/commands/running-the-linter"
+  },
+  "next": {
+    "title": "Testing",
+    "permalink": "/static-analysis-docs/docs/commands/testing"
+  }
+}

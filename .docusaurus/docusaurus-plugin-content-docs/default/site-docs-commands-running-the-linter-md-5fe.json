@@ -20,7 +20,7 @@
     "permalink": "/static-analysis-docs/docs/commands/parsing-a-file"
   },
   "next": {
-    "title": "Testing",
-    "permalink": "/static-analysis-docs/docs/commands/testing"
+    "title": "Generating all files",
+    "permalink": "/static-analysis-docs/docs/commands/generate-all-files"
   }
 }

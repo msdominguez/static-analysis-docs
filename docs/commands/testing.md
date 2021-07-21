@@ -1,8 +1,10 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # Testing
+
+`rome test internal/compiler/lint/rules/harness.test.ts --update-snapshots`
 
 Running the test runner:
 

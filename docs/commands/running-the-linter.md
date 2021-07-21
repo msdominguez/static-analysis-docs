@@ -6,3 +6,8 @@ sidebar_position: 3
 
 `./rome check`
 
+`./rome check [file_name]`
+
+`./rome check --review [file_name]`
+
+`./rome check --apply`

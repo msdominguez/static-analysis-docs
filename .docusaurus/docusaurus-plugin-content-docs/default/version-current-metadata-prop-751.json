@@ -32,6 +32,11 @@
           },
           {
             "type": "link",
+            "label": "Generating all files",
+            "href": "/static-analysis-docs/docs/commands/generate-all-files"
+          },
+          {
+            "type": "link",
             "label": "Testing",
             "href": "/static-analysis-docs/docs/commands/testing"
           }
@@ -52,6 +57,7 @@
   },
   "permalinkToSidebar": {
     "/static-analysis-docs/docs/commands/custom-lint-rule": "tutorialSidebar",
+    "/static-analysis-docs/docs/commands/generate-all-files": "tutorialSidebar",
     "/static-analysis-docs/docs/commands/parsing-a-file": "tutorialSidebar",
     "/static-analysis-docs/docs/commands/running-the-linter": "tutorialSidebar",
     "/static-analysis-docs/docs/commands/testing": "tutorialSidebar",
